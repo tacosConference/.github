@@ -22,7 +22,7 @@ The next TaCoS will be hosted in Saarland, Germany! Check out their website here
 <table>
 	<tr>
 		<td><code><img src="https://github.com/tacosConference/.github/blob/7ed464865d018c0fce5a72772df00c15c50ad0f2/assets/wugos.png" width="70"></code></td>
-		<td><a href=https://tacosconference.github.io/tacosConference32/>Düsseldorf</a></td>
+		<td><a href=https://tacosconference.github.io/32.tacosConference/>Düsseldorf</a></td>
 	</tr>
 </table>
 
