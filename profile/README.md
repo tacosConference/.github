@@ -15,9 +15,6 @@ The 'Tagung der Computerlinguistik-Studierenden' (TaCoS) was first organized in 
 
 Previously, the TaCoS was held together with the [STuTS](https://stuts.de/) but because of increasing interest, it is now being held as a separate conference. 
 
-## The next TaCoS Conference
-The next TaCoS will be hosted in Saarland, Germany! Check out their website here: [www.tacosconference.github.io](www.tacosconference.github.io)
-
 ## Previous TaCoS Conferences
 <table>
 	<tr>
