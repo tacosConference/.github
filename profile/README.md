@@ -3,7 +3,7 @@
 </p>
 
 <p algin="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&center=true&vCenter=true&width=500&height=100&lines=Tagung+der+Computerlinguistik-Studierenden" alt="Tagung der Computerlinguistik-Studierenden" /></a> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=5000&center=true&vCenter=true&width=900&height=100&lines=Tagung+der+Computerlinguistik-Studierenden" alt="Tagung der Computerlinguistik-Studierenden" /></a> 
 </p>
  
 ## What is TaCoS?
@@ -12,8 +12,8 @@ The “Tagung der Computerlinguistik-Studierenden” (TaCoS) is a student-led co
 
 ## Previous TaCoS Conferences
 
-Full list of TaCoS conferences at [» linguistik.computer](https://linguistik.computer/pages/archive.html)
+» See the full list of TaCoS conferences at [linguistik.computer](https://linguistik.computer/pages/archive.html)
 
 ### Questions or suggestions regarding this repository?
 
-Contact <anna.stein@hhu.de>!
+Contact <anna.stein@hhu.de>
