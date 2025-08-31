@@ -1,9 +1,8 @@
-<br>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&center=true&vCenter=true&width=900&height=100&lines=TaCoS+is+a+student-led+conference+on+Computational+Linguistics" alt="TaCoS is a student-led conference on Computational Linguistics" /></a><br>
-<div style="text-align: center">
+<p align="center">
 <img src='https://github.com/tacosConference/.github/blob/ccfdb7d6445fa13697951aec7bb9e91e6102ceae/assets/WUGCOSanimation.svg'>  
-</div>
+</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&center=true&vCenter=true&width=900&height=100&lines=TaCoS+is+a+student-led+conference+on+Computational+Linguistics" alt="TaCoS is a student-led conference on Computational Linguistics" /></a>
 
 ## What is the TaCoS?
 
